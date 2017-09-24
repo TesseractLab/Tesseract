@@ -18,9 +18,8 @@ Report any issues and we will try to fix them for you.**  <br>
 ## Builds
 
 __Travis-CI Build:__<br>
- [![Travis-CI](https://travis-ci.org/TesseractTeam/Tesseract.svg?branch=master)](https://travis-ci.org/TesseractTeam/Tesseract)<br>
+ [![Travis-CI](https://travis-ci.org/TesseractLab/Tesseract.svg?branch=master)<br>
  __Jenkins Build:__<br>
-[![Jenkins](https://travis-ci.org/TesseractTeam/Tesseract.svg?branch=master)](https://jenkins.imgcl.co/job/Tesseract/)
 
 ## Quick Links (Instead of scrolling, click these!)
 
